@@ -1,0 +1,5 @@
+{
+  "test.py": true,
+  "test_checkout.py::test_CanCalculateTotal": true,
+  "test_checkout.py::test_GetCorrecTotalWithMutipleItems": true
+}
